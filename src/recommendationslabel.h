@@ -22,6 +22,7 @@
 
 #include <QObject>
 #include <QLabel>
+#include <QMouseEvent>
 
 #include "tilestore.h"
 
